@@ -9,8 +9,7 @@ __pycache__/
 # Mac system files
 .DS_Store
 
-# Data files (we will upload only small samples if needed)
-data/
+
 
 # Logs
 *.log
